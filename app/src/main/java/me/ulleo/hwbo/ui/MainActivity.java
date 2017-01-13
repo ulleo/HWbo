@@ -1,9 +1,10 @@
-package me.ulleo.hwbo;
+package me.ulleo.hwbo.ui;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import me.ulleo.hwbo.R;
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
