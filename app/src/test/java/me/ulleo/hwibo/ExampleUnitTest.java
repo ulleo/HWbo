@@ -1,4 +1,4 @@
-package me.ulleo.hwbo;
+package me.ulleo.hwibo;
 
 import org.junit.Test;
 

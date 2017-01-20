@@ -1,4 +1,4 @@
-# HWbo
+# HWibo
 
 Hello World Weibo ~
 

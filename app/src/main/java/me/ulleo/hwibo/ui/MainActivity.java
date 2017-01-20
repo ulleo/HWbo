@@ -1,12 +1,14 @@
-package me.ulleo.hwbo.ui;
+package me.ulleo.hwibo.ui;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 
-public class BaseActivity extends AppCompatActivity {
+import me.ulleo.hwibo.R;
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
     }
 }
