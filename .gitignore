@@ -34,3 +34,6 @@ build/
 
 # Mac system files
 .DS_Store
+import-summary.txt
+
+weiboSDK/build
